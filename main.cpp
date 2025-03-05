@@ -6,6 +6,7 @@ int main() {
     cout << "Inserisci il tuo nome: ";
     cin >> nome;
     cout << "Ciao " <<nome<< "!" << endl;
-}
+.
+
 
 //LEGGERE LE ISTRUZIONI NEL FILE README.md
